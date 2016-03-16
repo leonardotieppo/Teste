@@ -1,0 +1,171 @@
+Cmp-Mod V01 Created by CvPCB (20100406 SVN-R2508)-final date = 16/03/2016 11:53:54
+
+BeginCmp
+TimeStamp = /4B2128A5;
+Reference = C5;
+ValeurCmp = 27p;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B2128A6;
+Reference = C6;
+ValeurCmp = 1u;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /56B79355;
+Reference = C19;
+ValeurCmp = 27p;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56B79354;
+Reference = C20;
+ValeurCmp = 100u;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /56B7934D;
+Reference = C21;
+ValeurCmp = 10u;
+IdModule  = C1V7;
+EndCmp
+
+BeginCmp
+TimeStamp = /56B7934E;
+Reference = C22;
+ValeurCmp = 27p;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BA61F5;
+Reference = C23;
+ValeurCmp = 1u;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BA61F6;
+Reference = C24;
+ValeurCmp = 27p;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BA61ED;
+Reference = C25;
+ValeurCmp = 1u;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BA61F9;
+Reference = C26;
+ValeurCmp = 27p;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BA61F8;
+Reference = C27;
+ValeurCmp = 27p;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BA61EC;
+Reference = C28;
+ValeurCmp = 27p;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56D9BBAB;
+Reference = MECA1;
+ValeurCmp = 5mm;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /56D9BBAA;
+Reference = MECA2;
+ValeurCmp = 5mm;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /56D9BBA9;
+Reference = MECA3;
+ValeurCmp = 5mm;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /56D9BBA8;
+Reference = MECA4;
+ValeurCmp = 5mm;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /56E93ABD;
+Reference = P3;
+ValeurCmp = Prog-Debug;
+IdModule  = KK_8C;
+EndCmp
+
+BeginCmp
+TimeStamp = /56E9292F;
+Reference = P5;
+ValeurCmp = MEZZA1;
+IdModule  = pin_array_8x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /56E927DC;
+Reference = P6;
+ValeurCmp = MEZZA2;
+IdModule  = PIN_ARRAY_10x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BA61F4;
+Reference = R4;
+ValeurCmp = 47K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /47B197F8;
+Reference = U2;
+ValeurCmp = CAN_MCP2551;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /56B79349;
+Reference = U3;
+ValeurCmp = 7805;
+IdModule  = LM78XX;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BA627A;
+Reference = U4;
+ValeurCmp = PIC18F4580;
+IdModule  = DIP-40__600_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BA61EF;
+Reference = X1;
+ValeurCmp = 10M;
+IdModule  = HC-18UV;
+EndCmp
+
+EndListe
